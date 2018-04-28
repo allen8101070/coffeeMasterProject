@@ -1,8 +1,10 @@
 # 咖啡巨匠：咖啡豆專賣店(專案備份)
 
-> 咖啡巨匠：咖啡豆專賣店網站
-> 個人練習做品，使用技術：vue cli、vuex、bootstrap4、sass、axios
-> [作品網址請點我](https://allen8101070.github.io/coffeeMasterWebsite/)
+咖啡巨匠：咖啡豆專賣店網站
+
+個人練習做品，使用技術：vue cli、vuex、bootstrap4、sass、axios
+
+[作品網址請點我](https://allen8101070.github.io/coffeeMasterWebsite/)
 
 ## Build Setup
 
